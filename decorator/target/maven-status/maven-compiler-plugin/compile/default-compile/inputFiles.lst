@@ -1,0 +1,13 @@
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/main/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/DefaultSocialChannelBuilder.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/main/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/SocialChannelDecorator.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/main/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/URLAppender.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/main/java/eu/jpereira/trainings/designpatterns/structural/decorator/SocialPublisher.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/main/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/LinkedinChannel.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/main/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/SocialChannelBuilder.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/main/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/SocialChannelProperties.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/main/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/WordCensor.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/main/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/SocialChannelPropertyKey.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/main/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/FacebookChannel.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/main/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/SocialChannel.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/main/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/MessageTruncator.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/main/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/TwitterChannel.java

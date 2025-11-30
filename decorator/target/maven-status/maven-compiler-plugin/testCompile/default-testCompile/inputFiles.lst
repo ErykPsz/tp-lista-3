@@ -1,0 +1,15 @@
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/SocialChannelDecortatorIntegrationTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/ChannelPropertiesTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/spy/TestSpySocialChannel.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/AbstractSocialChanneldDecoratorTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/DefaultSocialChannelBuilderTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/WordCensorTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/SocialPublisherTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/spy/TestSpySocialChannelBuilder.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/dummy/DummySocialChannelBuilder.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/dummy/TestDummyChannel.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/SocialChannelBuilderTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/IntegrationTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/URLAppenderTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/ChainCensorDecoratorTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/decorator/src/test/java/eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/MessageTruncatorTest.java

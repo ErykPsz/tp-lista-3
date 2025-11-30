@@ -1,0 +1,9 @@
+eu/jpereira/trainings/designpatterns/creational/factorymethod/HTMLReport.class
+eu/jpereira/trainings/designpatterns/creational/factorymethod/ReportFactory.class
+eu/jpereira/trainings/designpatterns/creational/factorymethod/JSONReport.class
+eu/jpereira/trainings/designpatterns/creational/factorymethod/ReportData.class
+eu/jpereira/trainings/designpatterns/creational/factorymethod/XMLReport.class
+eu/jpereira/trainings/designpatterns/creational/factorymethod/Report.class
+eu/jpereira/trainings/designpatterns/creational/factorymethod/PDFReport.class
+eu/jpereira/trainings/designpatterns/creational/factorymethod/ReportGenerator.class
+eu/jpereira/trainings/designpatterns/creational/factorymethod/AbstractReport.class

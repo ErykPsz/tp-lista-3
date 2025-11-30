@@ -1,0 +1,4 @@
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/test/java/eu/jpereira/trainings/designpatterns/structural/facade/service/TestCustomerDBService.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/test/java/eu/jpereira/trainings/designpatterns/structural/facade/facade/BookStoreFacadeTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/test/java/eu/jpereira/trainings/designpatterns/structural/facade/facade/AbstractClientTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/test/java/eu/jpereira/trainings/designpatterns/structural/facade/service/fake/FakeCustomerNotificationService.java

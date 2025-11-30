@@ -1,0 +1,15 @@
+eu/jpereira/trainings/designpatterns/structural/adapter/DoorNotManagedException.class
+eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/exceptions/CannotUnlockDoorException.class
+eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/ThirdPartyDoor$DoorState.class
+eu/jpereira/trainings/designpatterns/structural/adapter/exceptions/CodeMismatchException.class
+eu/jpereira/trainings/designpatterns/structural/adapter/SimpleDoorController.class
+eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/ThirdPartyDoor$LockStatus.class
+eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/ThirdPartyDoor.class
+eu/jpereira/trainings/designpatterns/structural/adapter/DoorController.class
+eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/exceptions/CannotChangeCodeForUnlockedDoor.class
+eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/exceptions/CannotChangeStateOfLockedDoor.class
+eu/jpereira/trainings/designpatterns/structural/adapter/model/SimpleDoor.class
+eu/jpereira/trainings/designpatterns/structural/adapter/exceptions/IncorrectDoorCodeException.class
+eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/ThirdPartyDoorAdapter.class
+eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/ThirdPartyDoorObjectAdapter.class
+eu/jpereira/trainings/designpatterns/structural/adapter/model/Door.class

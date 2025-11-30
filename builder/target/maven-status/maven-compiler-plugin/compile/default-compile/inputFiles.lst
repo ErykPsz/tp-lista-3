@@ -1,0 +1,13 @@
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/builder/src/main/java/eu/jpereira/trainings/designpatterns/creational/builder/HTMLReportBodyBuilder.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/builder/src/main/java/eu/jpereira/trainings/designpatterns/creational/builder/xml/XMLReportBody.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/builder/src/main/java/eu/jpereira/trainings/designpatterns/creational/builder/xml/XMLReportBodyBuilder.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/builder/src/main/java/eu/jpereira/trainings/designpatterns/creational/builder/model/Report.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/builder/src/main/java/eu/jpereira/trainings/designpatterns/creational/builder/ReportAssembler.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/builder/src/main/java/eu/jpereira/trainings/designpatterns/creational/builder/model/SaleEntry.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/builder/src/main/java/eu/jpereira/trainings/designpatterns/creational/builder/json/JSONReportBodyBuilder.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/builder/src/main/java/eu/jpereira/trainings/designpatterns/creational/builder/model/ReportBody.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/builder/src/main/java/eu/jpereira/trainings/designpatterns/creational/builder/ReportBodyBuilder.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/builder/src/main/java/eu/jpereira/trainings/designpatterns/creational/builder/json/JSONReportBody.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/builder/src/main/java/eu/jpereira/trainings/designpatterns/creational/builder/HTMLReportBody.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/builder/src/main/java/eu/jpereira/trainings/designpatterns/creational/builder/model/Customer.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/builder/src/main/java/eu/jpereira/trainings/designpatterns/creational/builder/model/SoldItem.java

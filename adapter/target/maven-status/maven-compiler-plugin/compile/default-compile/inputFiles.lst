@@ -1,0 +1,13 @@
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/main/java/eu/jpereira/trainings/designpatterns/structural/adapter/DoorNotManagedException.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/main/java/eu/jpereira/trainings/designpatterns/structural/adapter/exceptions/IncorrectDoorCodeException.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/main/java/eu/jpereira/trainings/designpatterns/structural/adapter/DoorController.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/main/java/eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/exceptions/CannotUnlockDoorException.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/main/java/eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/exceptions/CannotChangeStateOfLockedDoor.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/main/java/eu/jpereira/trainings/designpatterns/structural/adapter/model/SimpleDoor.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/main/java/eu/jpereira/trainings/designpatterns/structural/adapter/SimpleDoorController.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/main/java/eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/exceptions/CannotChangeCodeForUnlockedDoor.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/main/java/eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/ThirdPartyDoor.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/main/java/eu/jpereira/trainings/designpatterns/structural/adapter/model/Door.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/main/java/eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/ThirdPartyDoorObjectAdapter.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/main/java/eu/jpereira/trainings/designpatterns/structural/adapter/exceptions/CodeMismatchException.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/main/java/eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/ThirdPartyDoorAdapter.java

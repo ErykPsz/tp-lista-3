@@ -1,0 +1,7 @@
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/state/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/state/fakes/FakeAlarmMapper.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/state/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/state/fakes/FakeStateChangeMapper.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/state/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/state/command/EventTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/state/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/state/command/director/CommandDirectorTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/state/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/state/fakes/FakeApplianceDAO.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/state/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/state/mapper/EventMapperTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/state/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/state/appliance/state/ApplianceStateBehaviorTest.java

@@ -1,0 +1,9 @@
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/factorymethod/src/main/java/eu/jpereira/trainings/designpatterns/creational/factorymethod/JSONReport.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/factorymethod/src/main/java/eu/jpereira/trainings/designpatterns/creational/factorymethod/XMLReport.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/factorymethod/src/main/java/eu/jpereira/trainings/designpatterns/creational/factorymethod/ReportGenerator.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/factorymethod/src/main/java/eu/jpereira/trainings/designpatterns/creational/factorymethod/AbstractReport.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/factorymethod/src/main/java/eu/jpereira/trainings/designpatterns/creational/factorymethod/PDFReport.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/factorymethod/src/main/java/eu/jpereira/trainings/designpatterns/creational/factorymethod/ReportData.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/factorymethod/src/main/java/eu/jpereira/trainings/designpatterns/creational/factorymethod/HTMLReport.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/factorymethod/src/main/java/eu/jpereira/trainings/designpatterns/creational/factorymethod/ReportFactory.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/factorymethod/src/main/java/eu/jpereira/trainings/designpatterns/creational/factorymethod/Report.java

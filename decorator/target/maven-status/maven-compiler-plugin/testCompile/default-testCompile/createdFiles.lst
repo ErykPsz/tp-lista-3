@@ -1,0 +1,15 @@
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/ChannelPropertiesTest.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/AbstractSocialChanneldDecoratorTest.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/URLAppenderTest.class
+eu/jpereira/trainings/designpatterns/structural/decorator/SocialPublisherTest.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/dummy/DummySocialChannelBuilder.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/MessageTruncatorTest.class
+eu/jpereira/trainings/designpatterns/structural/decorator/IntegrationTest.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/spy/TestSpySocialChannelBuilder.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/WordCensorTest.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/spy/TestSpySocialChannel.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/ChainCensorDecoratorTest.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/DefaultSocialChannelBuilderTest.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/SocialChannelDecortatorIntegrationTest.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/SocialChannelBuilderTest.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/dummy/TestDummyChannel.class

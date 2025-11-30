@@ -1,0 +1,8 @@
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/iterator/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/iterator/service/DBServerInstanceServiceTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/iterator/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/iterator/fakes/FakeDBServerInstanceCommandFactory.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/iterator/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/iterator/fakes/FakeInstanceGroupDAO.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/iterator/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/iterator/spies/SpyDBServerInstance.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/iterator/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/iterator/model/QueryInstanceStatusCommandTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/iterator/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/iterator/CommandJobIteratorTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/iterator/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/iterator/spies/SpyCommandScheduler.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/iterator/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/iterator/spies/SpyDBServerInstanceGroup.java

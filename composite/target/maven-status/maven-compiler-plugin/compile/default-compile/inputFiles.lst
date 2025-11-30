@@ -1,0 +1,9 @@
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/composite/src/main/java/eu/jpereira/trainings/designpatterns/structural/composite/model/Shape.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/composite/src/main/java/eu/jpereira/trainings/designpatterns/structural/composite/model/Rectangle.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/composite/src/main/java/eu/jpereira/trainings/designpatterns/structural/composite/model/LeafShape.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/composite/src/main/java/eu/jpereira/trainings/designpatterns/structural/composite/model/Triangle.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/composite/src/main/java/eu/jpereira/trainings/designpatterns/structural/composite/model/ShapeType.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/composite/src/main/java/eu/jpereira/trainings/designpatterns/structural/composite/model/Line.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/composite/src/main/java/eu/jpereira/trainings/designpatterns/structural/composite/model/Circle.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/composite/src/main/java/eu/jpereira/trainings/designpatterns/structural/composite/model/CompositeShape.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/composite/src/main/java/eu/jpereira/trainings/designpatterns/structural/composite/model/ShapeDoesNotSupportChildren.java

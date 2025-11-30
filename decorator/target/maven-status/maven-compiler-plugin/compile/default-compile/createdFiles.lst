@@ -1,0 +1,13 @@
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/SocialChannel.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/MessageTruncator.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/SocialChannelBuilder.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/FacebookChannel.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/SocialChannelPropertyKey.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/URLAppender.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/LinkedinChannel.class
+eu/jpereira/trainings/designpatterns/structural/decorator/SocialPublisher.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/DefaultSocialChannelBuilder.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/WordCensor.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/SocialChannelProperties.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/TwitterChannel.class
+eu/jpereira/trainings/designpatterns/structural/decorator/channel/decorator/SocialChannelDecorator.class

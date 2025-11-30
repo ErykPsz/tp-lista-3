@@ -1,0 +1,15 @@
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/ReportBody.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/ReportFactoryManager.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/xml/XMLReportFactory.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/ReportFooter.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/json/JSONReportBody.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/Report.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/json/JSONReportFactory.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/xml/XMLReportHeader.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/ReportFactory.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/ReportHeader.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/ReportElement.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/xml/XMLReportBody.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/json/JSONReportHeader.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/xml/XMLReportFooter.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/abstractfactory/src/main/java/eu/jpereira/trainings/designpatterns/creational/abstractfactory/json/JSONReportFooter.java

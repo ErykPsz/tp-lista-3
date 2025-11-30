@@ -1,0 +1,4 @@
+eu/jpereira/trainings/designpatterns/creational/singleton/crwaling/DummySiteCrawler.class
+eu/jpereira/trainings/designpatterns/creational/singleton/crwaling/SiteCrawler.class
+eu/jpereira/trainings/designpatterns/creational/singleton/ReportBuilder.class
+eu/jpereira/trainings/designpatterns/creational/singleton/crwaling/CannotCrawlException.class

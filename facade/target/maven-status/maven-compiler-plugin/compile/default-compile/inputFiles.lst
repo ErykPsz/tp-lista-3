@@ -1,0 +1,11 @@
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/main/java/eu/jpereira/trainings/designpatterns/structural/facade/service/CustomerDBService.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/main/java/eu/jpereira/trainings/designpatterns/structural/facade/model/Order.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/main/java/eu/jpereira/trainings/designpatterns/structural/facade/service/OrderingService.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/main/java/eu/jpereira/trainings/designpatterns/structural/facade/service/CustomerNotificationService.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/main/java/eu/jpereira/trainings/designpatterns/structural/facade/model/DispatchReceipt.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/main/java/eu/jpereira/trainings/designpatterns/structural/facade/model/Customer.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/main/java/eu/jpereira/trainings/designpatterns/structural/facade/BookstoreFacade.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/main/java/eu/jpereira/trainings/designpatterns/structural/facade/model/Book.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/main/java/eu/jpereira/trainings/designpatterns/structural/facade/DefaultBookstoreFacade.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/main/java/eu/jpereira/trainings/designpatterns/structural/facade/service/WharehouseService.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/facade/src/main/java/eu/jpereira/trainings/designpatterns/structural/facade/service/BookDBService.java

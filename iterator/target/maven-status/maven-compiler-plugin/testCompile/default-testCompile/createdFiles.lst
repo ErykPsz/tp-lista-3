@@ -1,0 +1,7 @@
+eu/jpereira/trainings/designpatterns/behavioral/iterator/model/QueryInstanceStatusCommandTest.class
+eu/jpereira/trainings/designpatterns/behavioral/iterator/spies/SpyDBServerInstance.class
+eu/jpereira/trainings/designpatterns/behavioral/iterator/spies/SpyDBServerInstanceGroup.class
+eu/jpereira/trainings/designpatterns/behavioral/iterator/spies/SpyCommandScheduler.class
+eu/jpereira/trainings/designpatterns/behavioral/iterator/CommandJobIteratorTest.class
+eu/jpereira/trainings/designpatterns/behavioral/iterator/fakes/FakeDBServerInstanceCommandFactory.class
+eu/jpereira/trainings/designpatterns/behavioral/iterator/fakes/FakeInstanceGroupDAO.class

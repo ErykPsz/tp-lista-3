@@ -1,0 +1,8 @@
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/observer/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/observer/fakes/FakeApplianceDAO.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/observer/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/observer/fakes/FakeStateChangeMapper.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/observer/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/observer/mapper/EventMapperTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/observer/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/observer/mapper/AbstractMapperTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/observer/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/observer/command/EventTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/observer/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/observer/observers/ApplianceEventObservableTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/observer/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/observer/command/director/CommandDirectorTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/observer/src/test/java/eu/jpereira/trainings/designpatterns/behavioral/observer/fakes/FakeAlarmMapper.java

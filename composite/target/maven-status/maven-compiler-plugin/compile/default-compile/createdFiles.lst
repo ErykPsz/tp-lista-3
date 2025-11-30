@@ -1,0 +1,9 @@
+eu/jpereira/trainings/designpatterns/structural/composite/model/Line.class
+eu/jpereira/trainings/designpatterns/structural/composite/model/Circle.class
+eu/jpereira/trainings/designpatterns/structural/composite/model/Triangle.class
+eu/jpereira/trainings/designpatterns/structural/composite/model/LeafShape.class
+eu/jpereira/trainings/designpatterns/structural/composite/model/Shape.class
+eu/jpereira/trainings/designpatterns/structural/composite/model/CompositeShape.class
+eu/jpereira/trainings/designpatterns/structural/composite/model/Rectangle.class
+eu/jpereira/trainings/designpatterns/structural/composite/model/ShapeType.class
+eu/jpereira/trainings/designpatterns/structural/composite/model/ShapeDoesNotSupportChildren.class

@@ -1,0 +1,6 @@
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/test/java/eu/jpereira/trainings/designpatterns/structural/adapter/SimpleDoorControllerTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/test/java/eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/ThirdPartyDoorTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/test/java/eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/ThirdPartyAdapterTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/test/java/eu/jpereira/trainings/designpatterns/structural/adapter/DoorTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/test/java/eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/ThirdPartyDoorObjectAdapterTest.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/adapter/src/test/java/eu/jpereira/trainings/designpatterns/structural/adapter/thirdparty/ThirdPartyDoorAdapterTest.java

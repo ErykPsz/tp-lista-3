@@ -1,0 +1,13 @@
+eu/jpereira/trainings/designpatterns/creational/builder/xml/XMLReportBody.class
+eu/jpereira/trainings/designpatterns/creational/builder/ReportBodyBuilder.class
+eu/jpereira/trainings/designpatterns/creational/builder/ReportAssembler.class
+eu/jpereira/trainings/designpatterns/creational/builder/model/SaleEntry.class
+eu/jpereira/trainings/designpatterns/creational/builder/HTMLReportBody.class
+eu/jpereira/trainings/designpatterns/creational/builder/model/Customer.class
+eu/jpereira/trainings/designpatterns/creational/builder/model/SoldItem.class
+eu/jpereira/trainings/designpatterns/creational/builder/xml/XMLReportBodyBuilder.class
+eu/jpereira/trainings/designpatterns/creational/builder/json/JSONReportBodyBuilder.class
+eu/jpereira/trainings/designpatterns/creational/builder/HTMLReportBodyBuilder.class
+eu/jpereira/trainings/designpatterns/creational/builder/model/ReportBody.class
+eu/jpereira/trainings/designpatterns/creational/builder/json/JSONReportBody.class
+eu/jpereira/trainings/designpatterns/creational/builder/model/Report.class

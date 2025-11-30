@@ -1,0 +1,4 @@
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/singleton/src/main/java/eu/jpereira/trainings/designpatterns/creational/singleton/ReportBuilder.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/singleton/src/main/java/eu/jpereira/trainings/designpatterns/creational/singleton/crwaling/DummySiteCrawler.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/singleton/src/main/java/eu/jpereira/trainings/designpatterns/creational/singleton/crwaling/CannotCrawlException.java
+/home/eryk/Pulpit/javatrainings/designpatterns/trunk/singleton/src/main/java/eu/jpereira/trainings/designpatterns/creational/singleton/crwaling/SiteCrawler.java

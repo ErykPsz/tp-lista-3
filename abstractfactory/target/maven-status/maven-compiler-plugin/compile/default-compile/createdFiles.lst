@@ -1,0 +1,15 @@
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/Report.class
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/json/JSONReportFactory.class
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/ReportHeader.class
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/ReportBody.class
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/xml/XMLReportFooter.class
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/ReportFactory.class
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/json/JSONReportHeader.class
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/xml/XMLReportHeader.class
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/ReportFooter.class
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/xml/XMLReportBody.class
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/ReportElement.class
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/xml/XMLReportFactory.class
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/json/JSONReportBody.class
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/json/JSONReportFooter.class
+eu/jpereira/trainings/designpatterns/creational/abstractfactory/ReportFactoryManager.class
